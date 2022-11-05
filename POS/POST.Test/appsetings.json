@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    //"SIRErpConnection": "Data Source=sql5107.site4now.net;Database=db_a84074_gsgcarga;User Id=db_a84074_gsgcarga_admin;Password=admingcarga666;"
+    "POSConnection": "Data Source=localhost\\SQLEXPRESS;Database=POS;Integrated Security=true;"
+    // "SIRErpConnection": "Data Source=sql5080.site4now.net;Database=db_a89c1a_sistemabuitre;User Id=db_a89c1a_sistemabuitre_admin;Password=sistemaBuitre123;"
+  }
+}
